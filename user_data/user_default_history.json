@@ -1,0 +1,56 @@
+[
+  {
+    "query": "1",
+    "articles": [
+      {
+        "title": "Zynex, Inc. (ZYXI) Craters 51% On Possible Accounting Issues, Securities Class Action Filed \u2013 Hagens Berman",
+        "source": "GlobeNewswire"
+      },
+      {
+        "title": "How To Transfer Data From One SSD To Another",
+        "source": "redmondpie.com"
+      },
+      {
+        "title": "Trans European travelers warned by their countries about US travel amid Trump 'two-sexes' order",
+        "source": "Freerepublic.com"
+      },
+      {
+        "title": "cor Function in R | Calculate Correlation Coefficients in R",
+        "source": "R-bloggers.com"
+      },
+      {
+        "title": "Brockton police identify 22-year-old \u2018armed and dangerous\u2019 suspect wanted for fatal shooting of two teens",
+        "source": "Boston Herald"
+      }
+    ],
+    "timestamp": "2025-03-25T22:55:51.208008"
+  },
+  {
+    "query": "alamein",
+    "articles": [
+      {
+        "title": "Purim-Passover connection: Uniting the Jews, then building a nation - opinion",
+        "source": "The Jerusalem Post"
+      },
+      {
+        "title": "A weekend exploring Ruapehu\u2019s Adventure Highway",
+        "source": "New Zealand Herald"
+      }
+    ],
+    "timestamp": "2025-03-25T22:56:11.363427"
+  },
+  {
+    "query": "alamein",
+    "articles": [
+      {
+        "title": "Purim-Passover connection: Uniting the Jews, then building a nation - opinion",
+        "source": "The Jerusalem Post"
+      },
+      {
+        "title": "A weekend exploring Ruapehu\u2019s Adventure Highway",
+        "source": "New Zealand Herald"
+      }
+    ],
+    "timestamp": "2025-03-25T22:57:57.182118"
+  }
+]

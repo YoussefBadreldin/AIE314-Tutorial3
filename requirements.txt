@@ -1,0 +1,6 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+sentence-transformers>=2.2.2
+chromadb>=0.4.15
+transformers>=4.30.0
+torch>=2.0.0
